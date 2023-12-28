@@ -2,7 +2,4 @@
 api_key.py
 
 #ignore pycache
-__pycache__ 
-
-__pycache__/api_key.cpython-39.pyc
-__pycache__/requests.cpython-310.pyc
+__pycache__*
