@@ -1,4 +1,8 @@
 #ignore api key
 api_key.py
 
-__pycache__ = C:\Users\Miraj\OneDrive\Documents\Visual Studio\Python\Projects\Weather Service\__pycache__
+#ignore pycache
+__pycache__ 
+
+__pycache__/api_key.cpython-39.pyc
+__pycache__/requests.cpython-310.pyc
